@@ -1,10 +1,11 @@
 package com.zafu.canteen.tabThree;
 
-import android.support.v4.app.Fragment;
+
+import com.zafu.canteen.base.BaseFragment;
 
 /**
  * Created by mengxin on 17-1-21.
  */
 
-public class TabThreeFragment extends Fragment {
+public class TabThreeFragment extends BaseFragment {
 }
