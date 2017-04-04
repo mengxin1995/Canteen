@@ -26,8 +26,8 @@ public class MainPresenterImpl implements MainPresenter {
     public void initData() {
         ArrayList<Tab> mTabs = mMainVIew.getmTabs();
         mTabs.add(new Tab(R.drawable.selector_icon_mine, R.string.tab_name, TabOneFragment.class));
-        mTabs.add(new Tab(R.drawable.selector_icon_mine, R.string.tab_name, TabTwoFragment.class));
-        mTabs.add(new Tab(R.drawable.selector_icon_mine, R.string.tab_name, TabThreeFragment.class));
-        mTabs.add(new Tab(R.drawable.selector_icon_mine, R.string.tab_name, TabFourFragment.class));
+        mTabs.add(new Tab(R.drawable.selector_icon_mine, R.string.tab_name1, TabTwoFragment.class));
+        mTabs.add(new Tab(R.drawable.selector_icon_mine, R.string.tab_name2, TabThreeFragment.class));
+        mTabs.add(new Tab(R.drawable.selector_icon_mine, R.string.tab_name3, TabFourFragment.class));
     }
 }

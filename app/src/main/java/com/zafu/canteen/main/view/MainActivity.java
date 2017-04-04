@@ -2,6 +2,7 @@ package com.zafu.canteen.main.view;
 
 
 import android.os.Bundle;
+import android.support.v4.app.FragmentTabHost;
 import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,7 +14,6 @@ import android.widget.TextView;
 import com.zafu.canteen.R;
 import com.zafu.canteen.bean.Tab;
 import com.zafu.canteen.main.presenter.MainPresenterImpl;
-import com.zafu.canteen.widget.FragmentTabHost;
 
 import java.util.ArrayList;
 

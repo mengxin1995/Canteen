@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Canteen</string>
     <string name="tab_name">你好</string>
+    <string name="tab_name1">我好</string>
+    <string name="tab_name2">塔哈</string>
+    <string name="tab_name3">asdfasdf</string>
 </resources>
